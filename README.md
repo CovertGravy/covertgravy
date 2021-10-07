@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/covertgravy"><img src="https://api.daily.dev/devcards/4acea39676544035bebdffe8daf796a1.png?r=plq" width="400" alt="Ashish Shaji's Dev Card"/></a>
-
+<!-- <a href="https://app.daily.dev/covertgravy"><img src="https://api.daily.dev/devcards/4acea39676544035bebdffe8daf796a1.png?r=plq" width="400" alt="Ashish Shaji's Dev Card"/></a> -->
+<a href="https://app.daily.dev/covertgravy"><img src="https://github.com/covertgravy/covertgravy/blob/main/devcard.svg" width="400" alt="Ashish Shaji's Dev Card"/></a>
 <!--
 **CovertGravy/covertgravy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
