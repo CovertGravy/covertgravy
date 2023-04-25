@@ -1,4 +1,4 @@
-### Hi there 👋
+<a href="https://ashishshaji.com"><img src="https://raw.githubusercontent.com/CovertGravy/covertgravy.github.io/master/src/assets/hero.png" alt="Website"/></a>
 
 <!-- <a href="https://app.daily.dev/covertgravy"><img src="https://api.daily.dev/devcards/4acea39676544035bebdffe8daf796a1.png?r=plq" width="400" alt="Ashish Shaji's Dev Card"/></a> -->
 <a href="https://app.daily.dev/covertgravy"><img src="https://github.com/covertgravy/covertgravy/blob/main/devcard.svg" width="400" alt="Ashish Shaji's Dev Card"/></a>
